@@ -1,0 +1,6 @@
+[submoule "frontend"]
+    path = app/frontend
+    url = https://github.com/yokenzan/learning.full-stack-web-development.frontend
+[submoule "backend"]
+    path = app/backend
+    url = https://github.com/yokenzan/learning.full-stack-web-development.backend-django
